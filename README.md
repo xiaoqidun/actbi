@@ -1,6 +1,6 @@
 # ActBI（Act Base Image）
 
-基于node:20-bookworm-slim集成Docker CLI的Gitea Actions基础镜像
+基于node:20-trixie-slim集成Docker CLI的Gitea Actions基础镜像
 
 # 镜像地址
 
